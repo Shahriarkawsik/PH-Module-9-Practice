@@ -1,0 +1,14 @@
+h1{
+  text-align: center;
+}
+div{
+  border: 2px solid tomato;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+div li a{
+  text-decoration: none;
+  color: teal;
+  font-size: 1.5rem;
+}
